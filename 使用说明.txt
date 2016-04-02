@@ -1,0 +1,1 @@
+将zhbj文件夹复制到自己的tomcat的webapps下,然后把IP改成自己主机的IP,就可以访问了
